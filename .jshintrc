@@ -1,0 +1,12 @@
+{
+  "expr": true,
+  "node": true,
+  "globals": {
+    "before": false,
+    "after": false,
+    "describe": false,
+    "it": false,
+    "beforeEach": false,
+    "console": false
+  }
+}
